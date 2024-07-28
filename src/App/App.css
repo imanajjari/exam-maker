@@ -1,0 +1,17 @@
+.container-body{
+    padding: 40px 24px;
+}
+.div-add--button{
+    direction: rtl;
+    padding: 24px;
+}
+
+.h1-title{
+text-align: center;
+}
+.container-content{
+    background: rgba(0, 0, 0, 0.146);
+    margin-bottom: 16px;
+    border-radius: 12px;
+    padding: 24px 12px;
+}

@@ -1,0 +1,15 @@
+.container-inpute--question{
+display: flex;
+padding: 12px 0;
+}
+.container-inpute--question p{
+ padding: 0 12px;
+ width: 10%;
+}
+.add-button{
+    padding: 4px;    
+    cursor: pointer;
+    background: rgb(0, 145, 255);
+    border: none;
+    border-radius: 4px;
+}

@@ -1,0 +1,20 @@
+.container-Form{
+    width: 100%;
+    padding: 12px;
+    direction: rtl;
+}
+.container-Form h3{
+    padding: 24px 12px;
+    text-align: right;
+}
+.container-inpute{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.container-inpute div{
+    width: 100%;
+    padding: 12px;
+    min-width: 150px;
+
+}

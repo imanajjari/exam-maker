@@ -1,0 +1,33 @@
+.container-page{
+    padding: 24px;
+    background-color: white;
+}
+.page-top{
+    background-color: rgb(165, 235, 240);
+    border: solid 1px rgb(0, 105, 112);
+    padding: 12px;
+    color: rgb(0, 105, 112);
+    border-radius: 8px;
+}
+.page-top h1{
+    text-align: center;
+    padding: 16px;
+}
+.div-title--page{
+    direction: rtl;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.div-title--page p{
+    width: 200px;
+    padding: 8px;
+}
+.page-buttom{
+    background-color: white;
+    direction: rtl;
+    border: solid 1px rgb(0, 105, 112);
+    margin-top: 12px;
+    color: rgb(0, 105, 112);
+    
+}

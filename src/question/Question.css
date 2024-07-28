@@ -1,0 +1,22 @@
+.box-question{
+    width: 100%;
+    display: flex;
+    border: solid 1px rgb(0, 105, 112);
+    padding:  0 12px;
+}
+.box-number{
+    width: 10%;
+    padding: 12px;
+    text-align: center;
+}
+.box-questionText{
+    width: 80%;
+    border-right: solid 1px rgb(0, 105, 112);
+    border-left: solid 1px rgb(0, 105, 112);
+    padding: 12px;
+}
+.box-garde{
+    width: 10%;
+    padding: 12px;
+    text-align: center;
+}
